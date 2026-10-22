@@ -15,6 +15,6 @@ When asked: *"Why can't j.doe@company.com access Finance?"*, the AI:
 
 1. Clone this repository:
    ```bash
-   git clone [https://github.com/nlilabinfo-netizen/mcp-sap-entra-troubleshooter.git](https://github.com/YOUR_USERNAME/mcp-sap-entra-troubleshooter.git)
+   git clone [https://github.com/nlilabinfo-netizen/mcp-sap-entra-troubleshooter.git](https://github.com/nlilabinfo-netizen/mcp-sap-entra-troubleshooter.git)
    cd mcp-sap-entra-troubleshooter
    pip install -r requirements.txt
